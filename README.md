@@ -1,6 +1,7 @@
 ## Canteen management system
 
-#### https://shubhamd99.github.io/canteen-management-system/
+#### Live - https://shubhamd99.github.io/canteen-management-system/
+#### PPT - https://www.slideshare.net/ShubhamDhage6/canteen-food-management-system
 
 The main aim of this project Canteen management system is to provide fast services to their college students, Staffs etc. Usually People have to go to canteen and order the foods and they have to wait in queue for a long time to get the orders. But with the help of this you just have to follow a very simple process to order your stuffs. And you need not to wait in the long queue.
 
